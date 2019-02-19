@@ -1,0 +1,19 @@
+.links {
+    padding:10,10;
+    background-color: lightseagreen;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+  }
+
+h1 {
+    text-indent: 15%;
+    text-decoration-line: underline;
+    color: royalblue;
+    background-color: lightgray;
+    width: 45%;
+  }
+  
+body {
+  background-color: lightgrey;
+}
